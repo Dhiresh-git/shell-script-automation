@@ -11,5 +11,5 @@ then
     echo "this is Macos"
     brew istall git
 else
-    echo "not istalling"
+    echo "not installing"
 fi
